@@ -1,0 +1,15 @@
+#tablet th,
+    td {
+      display: inline-block;
+      width: 20%;
+    }
+#tablet td{
+    width:20%;
+}
+.card-header{
+    background-color:blue;
+}
+.jumbotron{
+    background-color: brown;
+    color:white;
+}
